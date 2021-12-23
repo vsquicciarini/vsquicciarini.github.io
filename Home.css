@@ -1,0 +1,93 @@
+ .u-section-1 {
+  background-image: url("images/alma-jfs-2010-10.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  width: 525px;
+  font-size: 3.75rem;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 525px;
+  line-height: 1.2;
+  font-size: 1.25rem;
+  margin: 13px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  width: 475px;
+  margin: 6px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 189px;
+  height: 189px;
+  object-position: 50% 0%;
+  background-image: url("images/fototessera.jpg");
+  background-position: 50% 50%;
+  margin: 33px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 1px;
+  font-size: 1.125rem;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  align-self: center;
+  margin: 28px auto 0;
+  padding: 20px 55px 21px 54px;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 240px;
+  min-width: 160px;
+  white-space: nowrap;
+  margin: 56px auto 60px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 32px;
+  color: rgb(0, 0, 0) !important;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-5 {
+  height: 32px;
+  color: rgb(233, 233, 233) !important;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    width: 340px;
+    font-size: 3.4375rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 340px;
+  }
+}
