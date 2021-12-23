@@ -41,7 +41,7 @@
   font-weight: 700;
   text-transform: uppercase;
   align-self: center;
-  margin: 28px auto 0;
+  margin: 33px auto 0;
   padding: 20px 55px 21px 54px;
 }
 
@@ -51,7 +51,7 @@
   width: 240px;
   min-width: 160px;
   white-space: nowrap;
-  margin: 56px auto 60px;
+  margin: 51px auto 60px;
 }
 
 .u-section-1 .u-icon-1 {
@@ -201,7 +201,7 @@
   }
 
   .u-section-2 .u-group-1 {
-    margin-top: 487px;
+    margin-top: 1068px;
     min-height: 696px;
   }
 
@@ -226,20 +226,18 @@
   .u-section-2 .u-text-1 {
     font-size: 1.875rem;
     width: auto;
-    margin-top: -1232px;
-    margin-right: 13px;
-    margin-left: -13px;
+    margin-top: -1002px;
   }
 
   .u-section-2 .u-text-2 {
     width: 340px;
+    margin-top: 24px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: -86px;
   }
 
   .u-section-2 .u-btn-1 {
-    margin-top: 124px;
+    margin-top: -457px;
     margin-bottom: 60px;
   }
 }
