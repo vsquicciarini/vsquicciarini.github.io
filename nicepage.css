@@ -35606,6 +35606,11 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: -24px auto 8px;
 }
 
+.u-footer .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 
 @media (max-width: 767px) {
   .u-footer .u-sheet-1 {
