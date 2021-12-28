@@ -1381,7 +1381,6 @@
 
   .u-section-4 .u-repeater-1 {
     min-height: 369px;
-    grid-auto-columns: 100%;
   }
 
   .u-section-4 .u-text-2 {
@@ -1394,7 +1393,7 @@
   }
 
   .u-section-4 .u-text-3 {
-    margin-top: -90px;
+    margin-top: -115px;
     margin-right: 17px;
     margin-left: 125px;
   }
@@ -1405,12 +1404,11 @@
 
   .u-section-4 .u-group-2 {
     width: 340px;
-    margin-top: -8px;
-    margin-left: auto;
+    margin-left: 0;
   }
 
   .u-section-4 .u-text-5 {
-    margin-top: -90px;
+    margin-top: -115px;
     margin-right: 17px;
     margin-left: 125px;
   }
