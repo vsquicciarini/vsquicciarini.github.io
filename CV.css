@@ -664,6 +664,16 @@
   margin: -89px 30px 0 112px;
 }
 
+.u-section-4 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-4 .u-container-layout-7 {
   padding: 0;
 }
@@ -988,7 +998,7 @@
   margin: -89px 30px 0 112px;
 }
 
-.u-section-4 .u-btn-1 {
+.u-section-4 .u-btn-3 {
   background-image: none;
   letter-spacing: 1px;
   text-shadow: 0 0 0 rgba(0,0,0,0);
@@ -1674,7 +1684,7 @@
     margin-left: 125px;
   }
 
-  .u-section-4 .u-btn-1 {
+  .u-section-4 .u-btn-3 {
     padding-right: 37px;
     padding-left: 35px;
   }
